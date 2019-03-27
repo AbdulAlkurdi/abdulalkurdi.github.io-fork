@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
+title: 'Psychology'
+date: 2019-03-27
 permalink: /posts/2013/08/blog-post-2/
 tags:
   - cool posts
