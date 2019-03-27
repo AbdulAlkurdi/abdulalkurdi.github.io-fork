@@ -177,7 +177,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: false
@@ -196,10 +196,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
