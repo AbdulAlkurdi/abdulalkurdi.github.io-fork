@@ -2,14 +2,15 @@
 main:
  # - title: "Talks"
  #   url: /talks/    
-
-  - title: "Research"
-    url: /research/    
+   
+  - title: "research"
+    url: /research/
     
+
 #  - title: "Portfolio"
 #    url: /portfolio/
  
- - title: "Publications"
+  - title: "Publications"
     url: /publications/
 
         
