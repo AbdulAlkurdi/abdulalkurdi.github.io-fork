@@ -17,9 +17,24 @@ https://drive.google.com/file/d/1oS4PW255HNUq1Oa2eYi_Y2v-HHChAn8Z/view?usp=shari
 
 <iframe src="https://docs.google.com/viewer?url=${https://drive.google.com/file/d/1oS4PW255HNUq1Oa2eYi_Y2v-HHChAn8Z/view?usp=sharing}" style="width:600px; height:500px;" frameborder="0"></iframe>
 
+
+<iframe src="https://docs.google.com/viewer?url=${https://docs.google.com/viewer?url=${https://drive.google.com/file/d/1oS4PW255HNUq1Oa2eYi_Y2v-HHChAn8Z/view?usp=sharing}" style="width:600px; height:500px;" frameborder="0"></iframe>
+
+
+<iframe src="https://docs.google.com/viewer?url=${https://drive.google.com/file/d/1oS4PW255HNUq1Oa2eYi_Y2v-HHChAn8Z/view?usp=sharing}" style="width:600px; height:500px;" frameborder="0"></iframe>
+
 <iframe src="https://docs.google.com/viewer?url=https://docs.google.com/viewer?url=${https://drive.google.com/file/d/1oS4PW255HNUq1Oa2eYi_Y2v-HHChAn8Z/view?usp=sharing}
 &embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
+
+<iframe src="https://docs.google.com/viewer?url=${https://drive.google.com/file/d/1oS4PW255HNUq1Oa2eYi_Y2v-HHChAn8Z/view?usp=sharing}
+&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+
+
+<iframe src="https://docs.google.com/viewer?url=https://github.com/AbdulAlkurdi/abdulalkurdi.github.io/raw/master/files/resume%2019.4%20short.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+
+
+<iframe src="https://github.com/AbdulAlkurdi/abdulalkurdi.github.io/raw/master/files/resume%2019.4%20short.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 
 
