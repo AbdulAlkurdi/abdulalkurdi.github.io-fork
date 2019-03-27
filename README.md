@@ -9,3 +9,8 @@
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
 See more info at https://academicpages.github.io/
+
+website's general data is at config
+_data/navigation overhead tabs
+_pages/aboutme home page text. 
+
