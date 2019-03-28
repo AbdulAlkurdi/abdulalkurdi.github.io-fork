@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student at the Univesrity of Illinois at Urbana-Champaign. Previously, I worked worked as a Research Associate at the Center of Excellence in Aeronautics and Astronautics, a collaboration between King Abdulaziz City for Science and Technology and Stanford University. Through the center, I had the opportunity to meet exceptional people in the research environment, which I am very grateful for. That exposure never ceases to mind blow me.
+I am a PhD student at the Univesrity of Illinois at Urbana-Champaign. Previously, I worked as a Research Associate at the Center of Excellence in Aeronautics and Astronautics, a collaboration between King Abdulaziz City for Science and Technology and Stanford University. Through the center, I had the opportunity to meet exceptional people in the research environment, which I am very grateful for. That exposure never ceases to mind blow me.
 
 I am very passionate about the things I do and very passionate about helping people, at large. I love the outdoors and I love flying. I am saving up to buy a paramotor but I think I need more than just having the money to convince my wife. How exciting would it be to fly a cabin-less “aircraft”? I also love motorcycles. I can't pinpoint as to why these bare-boned are super appealing to me, but I think it might be the sense of absolute freedom all my body experiences. I also enjoy these trips because I get lost in the moment and let my thoughts roam freely, unrestricted. It’s like meditation, but more fun. I also love watersports of all sorts, fishing, boating, jetskiing, sailing, wind surfing etc. you name it!
 
