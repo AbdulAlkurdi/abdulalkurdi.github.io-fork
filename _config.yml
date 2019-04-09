@@ -183,10 +183,10 @@ collections:
     output: false
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
   research:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
