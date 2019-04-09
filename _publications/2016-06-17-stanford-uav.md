@@ -12,5 +12,4 @@ This paper is about stall/spin testing on a subscale aircraft
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-[comment]: <> (#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).)
-
+/publication/2016-06-17-stanford-uav
