@@ -1,7 +1,7 @@
 ---
 title: "In-flight measurement of wing surface pressures on a small-scale uav during stall/spin maneuvers"
 collection: publications
-permalink: /publication/2016-06-17-stanford-uav
+permalink: 
 excerpt: 'This paper is about stall/spin testing on a subscale aircraft.'
 date: 2016-06-17
 venue: 'AIAA flight testing conference'
