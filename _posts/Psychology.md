@@ -10,6 +10,9 @@ tags:
 
 I am super facinated by psychology. I took an intro to psychology class in 2005 and I've been facinated by it since then. I probably read more about it than I should but I like it's deep insight into human cognition. I find that it also spills into my research by helping me understand behaviours of entities. 
 
+
+do some people use their limited cognitive bandwitch differently than others? If your brain can quickly switch between topics while holding both in the brain. perhaps these people can accomplish more with their given bandwidth since the can affectively do what a camera with rolling shutter can accomplish. kind of.  
+
 List of psychology papers I've read
 ======
 Daley, D., & Birchwood, J. (2010). ADHD and academic performance: why does ADHD impact on academic performance and what can be done to support ADHD children in the classroom?. Child: care, health and development, 36(4), 455-464.
