@@ -4,6 +4,9 @@ Interesting talk by Mark about negative effects of taking points off. He's shown
 This can translate to real life by removing grades from class rooms. Or by using Liberzon's hw methodology: if you get your HW wrong, you redo it until you get it right. The final is just an interview. 
 How many times you fail before getting to the goal, does not affect your outcome. 
 
+difficulty increases learning. 
+https://www.youtube.com/watch?v=UBVV8pch1dM
+
 Sal Khan:
 problem with teaching how it's evaluating the process not evaluating the learnings. 
 
