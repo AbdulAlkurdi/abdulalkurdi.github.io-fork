@@ -5,3 +5,6 @@ A lot of actions done by university administraion is kind of biased towards focu
 .... 
 
 Teaching:
+
+Students:
+A lot of students need help defining themselves and their paths. I feel like I should be helpful to others by identifying their strengths since most graduate students struggle with confidence and life purpose. They don't know what they bring to the table. By identifying their strengths, I can help them get to the realization of their strengths and contributions. 
