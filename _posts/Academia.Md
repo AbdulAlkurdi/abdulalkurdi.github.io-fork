@@ -8,3 +8,4 @@ Teaching:
 
 Students:
 A lot of students need help defining themselves and their paths. I feel like I should be helpful to others by identifying their strengths since most graduate students struggle with confidence and life purpose. They don't know what they bring to the table. By identifying their strengths, I can help them get to the realization of their strengths and contributions. 
+  Nadia made a good program to help students figure out a program to help students identify their goals and accomplishments. https://www.youtube.com/watch?v=rHItLGBPsJ8
